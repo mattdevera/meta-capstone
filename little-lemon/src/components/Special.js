@@ -1,6 +1,10 @@
 function Special() {
     return(
-        <img src="" alt="Specials Dish Photo" />
+        <div>
+            <img src="" alt="Specials Dish Photo" />
+            <h2>Special</h2>
+            <p>description of the dish</p>
+        </div>
     );
 }
 
