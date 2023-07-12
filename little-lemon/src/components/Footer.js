@@ -1,9 +1,8 @@
-import Nav from './Nav.js';
+import '../styles/Footer.css';
 
 function Footer() {
     return(
         <footer>
-            <Nav />
             <figure>
                 <figcaption>Contact Us!</figcaption>
                 <ul>
